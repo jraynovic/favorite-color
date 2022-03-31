@@ -1,0 +1,20 @@
+{
+  "name": "favorite_color",
+  "version": "1.0.0",
+  "description": "simple full stack app for selecting favorite color",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "dev": "code client && concurrently \"nodemon server.js\" \"yarn --cwd client start\""
+  },
+  "author": "JRaynovic",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "concurrently": "^7.0.0",
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15",
+    "sequelize": "^6.17.0",
+    "sqlite3": "^5.0.2"
+  }
+}
