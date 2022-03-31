@@ -16,4 +16,4 @@ How to run:
   This will start both the server and client as well as open the client in a new window.
 
   **this project was created in vs code using yarn package manager and has not been tested in other enviroments or with npm. Though it should operate
-  simarly.  
+  similarly.  
