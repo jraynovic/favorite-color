@@ -1,9 +1,9 @@
 Favorite-Color
 
 Description: 
-    This is a simple full stack application that allows users to select and see there favorite color and display there choice. 
+    This is a simple full stack application that allows users to select and see their favorite color and display their choice. 
 
-Future adddition:
+Future addditions:
     -The ability to change the pool of colors.
     -Add history to show what colors have been selected recently as a favorite.
     Currently the server side is capable and planned to have these options. The client side will need further implemation to acheive these abilities
